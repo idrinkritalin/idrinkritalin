@@ -30,7 +30,7 @@ I'm a Javascript Engineer. Musician. Nerd. Questing and gaining exp points on a 
 
 ---
 
-[![idrinkritalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrinkritalin&hide=contribs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![idrinkritalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrinkritalin&hide=contribs,issues&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
