@@ -17,17 +17,17 @@ Don't forget to check my links 👉 [**idrinkritalin**](https://linktree.com/idr
 
 ---
 
-## Support me with ETH
+### Support me with ETH
 
-https://w7.pngwing.com/pngs/368/176/png-transparent-ethereum-cryptocurrency-blockchain-bitcoin-logo-bitcoin-angle-triangle-logo-thumbnail.png
+![ethereum](https://w7.pngwing.com/pngs/368/176/png-transparent-ethereum-cryptocurrency-blockchain-bitcoin-logo-bitcoin-angle-triangle-logo-thumbnail.png)
 
 0x12E2e2ee3b167666bAb558426cfE15A0DAe56b74
 
 ---
 
-## Now Playing 🎧
+### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/83e5332fdffb4a6e)
 
 ---
 
