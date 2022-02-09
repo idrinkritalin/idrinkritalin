@@ -10,8 +10,6 @@ Hi there 👋
 My name is Stefano, currently living and working in 🇩🇪 Berlin, and currently working in Blacklane 🚗.
 I'm a Javascript Engineer. Musician. Nerd. Questing and gaining exp points on a daily basis.
 
-Don't forget to check my links 👉 [**idrinkritalin**](https://linktree.com/idrinkritalin) 💫
-
 🚀 Some of projects I am working on:
 
 - 🙈 [**Maimun Ape Social Club**](https://www.maimun-ape.com/) - NFT collection project
