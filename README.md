@@ -19,7 +19,7 @@ Don't forget to check my links 👉 [**idrinkritalin**](https://linktree.com/idr
 
 ### Support me with ETH
 
-![ethereum](https://img.favpng.com/21/5/6/t-shirt-sleeve-ethereum-png-favpng-wuqXRdV4GSfQ0i5KBAke8S1FF.jpg)
+![ethereum](https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png | width=100)
 
 👉 0x12E2e2ee3b167666bAb558426cfE15A0DAe56b74
 
@@ -31,7 +31,7 @@ Don't forget to check my links 👉 [**idrinkritalin**](https://linktree.com/idr
 
 ---
 
-[![idrinkritalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrinkritalin)](https://github.com/anuraghazra/github-readme-stats)
+[![idrinkritalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrinkritalin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
