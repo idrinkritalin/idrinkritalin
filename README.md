@@ -30,9 +30,9 @@ I'm a Javascript Engineer. Musician. Nerd. Questing and gaining exp points on a 
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=idrinkritalin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=idrinkritalin&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![idrinkritalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrinkritalin&hide=contribs,issues&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![idrinkritalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrinkritalin&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
