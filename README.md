@@ -19,7 +19,7 @@ Don't forget to check my links 👉 [**idrinkritalin**](https://linktree.com/idr
 
 ### Support me with ETH
 
-<img src="https://w7.pngwing.com/pngs/183/610/png-transparent-t-shirt-sleeve-ethereum-t-shirt-angle-white-triangle.png" width="100" height="100" />
+<img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Ethereum-ETH-icon.png" width="100" height="100" />
 
 👉 0x12E2e2ee3b167666bAb558426cfE15A0DAe56b74
 
