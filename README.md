@@ -1,16 +1,39 @@
-### Hi there 👋
+# About Me
 
-<!--
-**idrinkritalin/idrinkritalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-@idrinkritalin-green)](https://github.com/idrinkritalin)
+[![Twitter](https://img.shields.io/badge/Twitter-@idrinkritalin-blue)](https://twitter.com/idrinkritalin)
+[![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/stveltri/)
+[![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 
-Here are some ideas to get you started:
+Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Stefano, currently living and working in 🇩🇪 Berlin. I'm a Javascript Engineer. Musician. Nerd. Questing and gaining exp points on a daily basis.
+
+Don't forget to check my links 👉 [**idrinkritalin**](https://linktree.com/idrinkritalin) 💫
+
+🚀 Some of projects I am working on:
+
+- 🙈 [**Maimun Ape Social Club**](https://www.maimun-ape.com/) - NFT collection project
+
+---
+
+## Support me with ETH
+
+https://w7.pngwing.com/pngs/368/176/png-transparent-ethereum-cryptocurrency-blockchain-bitcoin-logo-bitcoin-angle-triangle-logo-thumbnail.png
+
+0x12E2e2ee3b167666bAb558426cfE15A0DAe56b74
+
+---
+
+## Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+
+---
+
+[![idrinkritalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrinkritalin)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![twitter](https://img.shields.io/twitter/follow/idrinkritalin?style=social)](https://twitter.com/idrinkritalin)  
+[![github](https://img.shields.io/github/followers/idrinkritalin?style=social)](https://github.com/idrinkritalin)
