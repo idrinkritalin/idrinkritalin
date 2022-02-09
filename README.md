@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/stveltri/)
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 
-Hi there 👋
+Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 My name is Stefano, currently living in 🇩🇪 Berlin, and working for Blacklane 🚗.
 I'm a Javascript Engineer. Musician. Nerd. Questing and gaining exp points on a daily basis.
@@ -29,6 +29,8 @@ I'm a Javascript Engineer. Musician. Nerd. Questing and gaining exp points on a 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=stephanus_leon&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=idrinkritalin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![idrinkritalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrinkritalin&hide=contribs,issues&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
