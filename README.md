@@ -7,7 +7,7 @@
 
 Hi there 👋
 
-My name is Stefano, currently living and working in 🇩🇪 Berlin, and currently working in Blacklane 🚗.
+My name is Stefano, currently living in 🇩🇪 Berlin, and working for Blacklane 🚗.
 I'm a Javascript Engineer. Musician. Nerd. Questing and gaining exp points on a daily basis.
 
 🚀 Some of projects I am working on:
