@@ -19,9 +19,9 @@ Don't forget to check my links 👉 [**idrinkritalin**](https://linktree.com/idr
 
 ### Support me with ETH
 
-![ethereum](https://w7.pngwing.com/pngs/368/176/png-transparent-ethereum-cryptocurrency-blockchain-bitcoin-logo-bitcoin-angle-triangle-logo-thumbnail.png)
+![ethereum](https://img.favpng.com/21/5/6/t-shirt-sleeve-ethereum-png-favpng-wuqXRdV4GSfQ0i5KBAke8S1FF.jpg)
 
-0x12E2e2ee3b167666bAb558426cfE15A0DAe56b74
+👉 0x12E2e2ee3b167666bAb558426cfE15A0DAe56b74
 
 ---
 
