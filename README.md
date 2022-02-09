@@ -28,7 +28,7 @@ Don't forget to check my links 👉 [**idrinkritalin**](https://linktree.com/idr
 
 ### Now Playing 🎧
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stephanus_leon&unique={true|1|on|yes})
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=stephanus_leon&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
