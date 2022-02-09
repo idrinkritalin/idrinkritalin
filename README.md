@@ -19,7 +19,7 @@ Don't forget to check my links 👉 [**idrinkritalin**](https://linktree.com/idr
 
 ### Support me with ETH
 
-![ethereum](https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png | width=100)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png" width="200" height="200" />
 
 👉 0x12E2e2ee3b167666bAb558426cfE15A0DAe56b74
 
