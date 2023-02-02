@@ -12,7 +12,7 @@ I'm a Javascript Engineer. Musician. Nerd. Questing and gaining exp points on a 
 
 🚀 Some of projects I am working on:
 
-- 🙈 [**Maimun Ape Social Club**](https://www.maimun-ape.com/) - NFT collection project
+- 🙈 [**Maimun Ape Social Club**](https://maimun.club/) - NFT collection project
 
 ---
 
