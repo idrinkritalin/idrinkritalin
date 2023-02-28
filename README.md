@@ -10,7 +10,7 @@ Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/maste
 My name is Stefano and I'm a Senior Javascript Engineer!
 👨🏽‍💻 Coder. 🥁🎸 Musician. 👾 Nerd. Questing and gaining exp points on a daily basis.
 I approach coding with a human-centered mindset, constantly seeking to improve.
-Actually in love ❤️ with Crypto and Blockchain, exploring Web 3.0 and learning Solidity.
+Actually in love ❤️ with AI and Blockchain, exploring Web 3.0
 
 🚀 Some of projects I am working on:
 
