@@ -7,8 +7,10 @@
 
 Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-My name is Stefano, currently living in 🇩🇪 Berlin, and working for Nord Security 💻.
-I'm a Javascript Engineer. Musician. Nerd. Questing and gaining exp points on a daily basis.
+My name is Stefano and I'm a Senior Javascript Engineer!
+👨🏽‍💻 Coder. 🥁🎸 Musician. 👾 Nerd. Questing and gaining exp points on a daily basis.
+I approach coding with a human-centered mindset, constantly seeking to improve.
+Actually in love ❤️ with Crypto and Blockchain, exploring Web 3.0 and learning Solidity.
 
 🚀 Some of projects I am working on:
 
