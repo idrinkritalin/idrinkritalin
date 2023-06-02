@@ -14,7 +14,8 @@ Actually in love ❤️ with AI and Blockchain, exploring Web 3.0
 
 🚀 Some of projects I am working on:
 
-- 🙈 [**Maimun Ape Social Club**](https://maimun.club/) - NFT collection project
+- 👕 [**Teesgenerator**](https://www.teesgenerator.com/) - AI generated T-shirts app
+- 🙈 [**Maimun Ape Social Club**](https://maimun.club/) - NFT Collection project
 
 ---
 
