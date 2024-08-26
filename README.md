@@ -6,13 +6,13 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 
 Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+my name is Stefano, and I'm a Senior Javascript Engineer, currently working at Bitpanda, with over 8 years of experience in Javascript and Typescript, specialising in both Frontend and Backend development.
 
-My name is Stefano and I'm a Senior Javascript Engineer!
-👨🏽‍💻 Coder. 🥁🎸 Musician. 👾 Nerd. Questing and gaining exp points on a daily basis.
-I approach coding with a human-centered mindset, constantly seeking to improve.
-Actually in love ❤️ with AI and Blockchain, exploring Web 3.0
+My experience in fintech, e-commerce, travel and cybersecurity industry (both in B2B and B2C), paired with the creativity ADHD provides, drive my ability to deliver innovative solutions. I’m focused on growth and creating impact.
 
-🚀 Some of projects I am working on:
+When I'm not 👨🏽‍💻 coding, I am experimenting with music 🥁🎸 or 👾 nerding out on AI and Blockchain. Passionate about building impactful, user-centric accessible applications, I am continuously improving my skills in mentorship to foster growth and social impact within the tech community.
+
+🚀 Some of projects I am working/worked on:
 
 - 👕 [**Teesgenerator**](https://www.teesgenerator.com/) - AI generated T-shirts app
 - 🙈 [**Maimun Ape Social Club**](https://maimun.club/) - NFT Collection project
