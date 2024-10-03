@@ -15,7 +15,6 @@ When I'm not 👨🏽‍💻 coding, I am experimenting with music 🥁🎸 or �
 🚀 Some of projects I am working/worked on:
 
 - 👕 [**Teesgenerator**](https://www.teesgenerator.com/) - AI generated T-shirts app
-- 🙈 [**Maimun Ape Social Club**](https://maimun.club/) - NFT Collection project
 
 ---
 
