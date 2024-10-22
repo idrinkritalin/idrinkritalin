@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/stveltri/)
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 
-Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I’m Stefano, a Senior Engineer with 8+ years of experience in Javascript and Typescript, specializing in both Frontend and Backend development within the modern ecosystem.
+Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I’m Stefano, Senior Engineer with 8+ years of experience in Javascript and Typescript, specialised in both Frontend and Backend development within the modern ecosystem.
 
 With a background in UI/UX design, I built a strong eye for details and seamless collaboration with design and product teams. I’ve worked across diverse industries like fintech, e-commerce, travel and cybersecurity (B2B/B2C), leveraging my creativity fueled by ADHD, to deliver innovative and impactful solutions. I’m growth-focused, always striving to make a meaningful difference.
 
