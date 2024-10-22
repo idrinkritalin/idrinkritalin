@@ -5,12 +5,11 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/stveltri/)
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 
-Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-my name is Stefano, and I'm a Senior Javascript Engineer, currently working at Bitpanda, with over 8 years of experience in Javascript and Typescript, specialising in both Frontend and Backend development.
+Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I’m Stefano, a Senior Engineer with 8+ years of experience in Javascript and Typescript, specializing in both Frontend and Backend development within the modern ecosystem.
 
-My experience in fintech, e-commerce, travel and cybersecurity industry (both in B2B and B2C), paired with the creativity ADHD provides, drive my ability to deliver innovative solutions. I’m focused on growth and creating impact.
+With a background in UI/UX design, I built a strong eye for details and seamless collaboration with design and product teams. I’ve worked across diverse industries like fintech, e-commerce, travel and cybersecurity (B2B/B2C), leveraging my creativity fueled by ADHD, to deliver innovative and impactful solutions. I’m growth-focused, always striving to make a meaningful difference.
 
-When I'm not 👨🏽‍💻 coding, I am experimenting with music 🥁🎸 or 👾 nerding out on AI and Blockchain. Passionate about building impactful, user-centric accessible applications, I am continuously improving my skills in mentorship to foster growth and social impact within the tech community.
+When I’m not coding, I’m either experimenting with music, diving into AI or gaming. Passionate about building accessible, user-centric applications, I’m also dedicated to mentoring and fostering growth within the tech community
 
 🚀 Some of projects I am working/worked on:
 
