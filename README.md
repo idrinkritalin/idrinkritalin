@@ -21,10 +21,8 @@ I’m also dedicated to mentoring and fostering growth within the tech community
 I’ve worked in **fintech, e-commerce, travel, and cybersecurity** (B2B/B2C), consistently delivering impactful solutions while fostering collaboration between dev, design, and product teams.
 When I’m not building products, you’ll find me **experimenting with AI**, **creating music**, or **gaming**.
 
----
 🚀 **Some Projects I worked on**:
 - 👕 [**Teesgenerator**](https://www.teesgenerator.com) – AI-generated T-shirt web app (design, frontend, backend, deployment)
----
 
 ### 💬 Let’s Work Together
 📧 **Email:** stefano@idrinkritalin.com  
