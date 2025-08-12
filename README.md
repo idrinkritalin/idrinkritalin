@@ -34,6 +34,5 @@ I can join projects as a **solo developer**, integrate into an **existing team**
 
 👉 0x12E2e2ee3b167666bAb558426cfE15A0DAe56b74
 
-[![idrinkritalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrinkritalin&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![twitter](https://img.shields.io/twitter/follow/idrinkritalin?style=social)](https://twitter.com/idrinkritalin)  
 [![github](https://img.shields.io/github/followers/idrinkritalin?style=social)](https://github.com/idrinkritalin)
