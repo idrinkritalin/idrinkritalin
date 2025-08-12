@@ -29,13 +29,11 @@ When I’m not building products, you’ll find me **experimenting with AI**, **
 🌍 Available for **consulting**
 I can join projects as a **solo developer**, integrate into an **existing team**, or **lead frontend initiatives**
 
---
 ### ☕ Support me with ETH
 <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Ethereum-ETH-icon.png" width="100" height="100" />
 
 👉 0x12E2e2ee3b167666bAb558426cfE15A0DAe56b74
----
+
 [![idrinkritalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrinkritalin&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
----
 [![twitter](https://img.shields.io/twitter/follow/idrinkritalin?style=social)](https://twitter.com/idrinkritalin)  
 [![github](https://img.shields.io/github/followers/idrinkritalin?style=social)](https://github.com/idrinkritalin)
