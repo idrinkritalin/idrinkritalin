@@ -13,7 +13,7 @@ With a strong background in **UI/UX Design**, I combine technical expertise with
 I’m also dedicated to mentoring and fostering growth within the tech community.
 
 💼 **What I Offer**:
-- **Fullstack Expertise**: Vue.js, Nuxt.js, React, Node.js, REST/GraphQL APIs, database integrations
+- **Fullstack Expertise**: React, Vue.js, Nuxt/Next, Node, REST/GraphQL APIs, Clodflare, Desigh System, Docker, DB integrations, CI/CD
 - **Freelance & Consulting**: From MVPs to large-scale applications, I help businesses ship faster and better
 - **Product Development from 0 → Launch**: Architecture, design collaboration, implementation, optimization
 - **Team Enablement**: Mentorship, workflow improvements, code reviews, best practices
